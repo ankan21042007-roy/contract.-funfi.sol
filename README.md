@@ -16,3 +16,6 @@ contract SimpleContract {
     }
 }
 <img width="1920" height="1080" alt="Screenshot 2025-10-29 135542" src="https://github.com/user-attachments/assets/88ca0620-71d9-4bc4-bbe1-a393ebf216ba" />
+Project Description
+this project is build for the beginners learning solidiyty and celo block chain 
+this program shows an output of Hello Blockchains
